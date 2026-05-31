@@ -1,5 +1,4 @@
 <div align="center">
-<img width="1280" height="633" alt="image" src="https://github.com/user-attachments/assets/6788f2fe-1738-4e45-a0fa-28e33b51b00a" />
 
   # Slippi Launcher
   <p align="center">
@@ -15,6 +14,11 @@
     <br>
     <img src="https://img.shields.io/github/stars/slippilaucnherapp/slippi-launche?style=flat-square&color=gold" alt="Stars" />
     <img src="https://img.shields.io/github/license/slippilaucnherapp/slippi-launche?style=flat-square" alt="License" />
+
+/
+
+   <img width="150" height="150" alt="45867030" src="https://github.com/user-attachments/assets/1f024f09-11b7-4af1-8adc-7b66575d3515" />
+
   </p>
 </div>
 
