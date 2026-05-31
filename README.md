@@ -1,6 +1,7 @@
 <div align="center">
 <img width="1280" height="633" alt="image" src="https://github.com/user-attachments/assets/6788f2fe-1738-4e45-a0fa-28e33b51b00a" />
-# Slippi Launcher
+
+  # Slippi Launcher
   <p align="center">
     <strong>Official Slippi Launcher for Super Smash Bros. Melee</strong>
     <br/>
